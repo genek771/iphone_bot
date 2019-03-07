@@ -1,0 +1,4 @@
+*.log
+key.txt
+settings.py
+env/
